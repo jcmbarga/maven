@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Autodata Corp :: Camel :: Orchestration :: Model
+Implementation-Version: 2.1.0
+Built-By: JeanCalvin.Mbarga
+Specification-Title: Autodata Corp :: Camel :: Orchestration :: Model
+Implementation-Vendor-Id: org.autodatacorp.cpp.orchestration
+Build-Jdk: 1.8.0_151
+Specification-Version: 2.1
+Created-By: Maven Integration for Eclipse
+

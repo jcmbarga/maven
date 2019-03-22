@@ -1,0 +1,16 @@
+org\autodatacorp\orchestration\models\miscellaneous\response\VersionList.class
+org\autodatacorp\orchestration\models\swagger\RestSwaggerSupport.class
+org\autodatacorp\orchestration\models\SupportResponse.class
+org\autodatacorp\orchestration\models\swagger\SwaggerDescriptions.class
+org\autodatacorp\orchestration\models\exception\GeneralException.class
+org\autodatacorp\orchestration\models\exception\RouteException.class
+org\autodatacorp\orchestration\models\process\ActivateDebug.class
+org\autodatacorp\orchestration\models\miscellaneous\response\HealthStatus.class
+org\autodatacorp\orchestration\models\util\ProcessorHelper.class
+org\autodatacorp\orchestration\models\util\IccVehicleUtil.class
+org\autodatacorp\orchestration\models\MSResponse.class
+org\autodatacorp\orchestration\models\util\SupportHelper.class
+org\autodatacorp\orchestration\models\WSResponseBase.class
+org\autodatacorp\orchestration\models\swagger\servlet\RestSwaggerServlet.class
+org\autodatacorp\orchestration\models\WSResponse.class
+org\autodatacorp\orchestration\models\process\ActivateSupport.class
